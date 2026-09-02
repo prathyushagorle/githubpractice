@@ -1,1 +1,2 @@
-This is source code of a file	
+This is source code of a file
+this is a new file in data	
